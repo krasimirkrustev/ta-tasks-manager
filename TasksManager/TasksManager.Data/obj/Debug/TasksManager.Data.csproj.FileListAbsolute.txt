@@ -1,0 +1,22 @@
+D:\Working\TasksManager\TasksManager.Data\bin\Debug\TasksManager.Data.dll.config
+D:\Working\TasksManager\TasksManager.Data\bin\Debug\TasksManager.Data.dll
+D:\Working\TasksManager\TasksManager.Data\bin\Debug\TasksManager.Data.pdb
+D:\Working\TasksManager\TasksManager.Data\bin\Debug\EntityFramework.dll
+D:\Working\TasksManager\TasksManager.Data\bin\Debug\TasksManager.Models.dll
+D:\Working\TasksManager\TasksManager.Data\bin\Debug\TasksManager.Models.pdb
+D:\Working\TasksManager\TasksManager.Data\bin\Debug\EntityFramework.xml
+D:\Working\TasksManager\TasksManager.Data\obj\Debug\TasksManager.Data.csprojResolveAssemblyReference.cache
+D:\Working\TasksManager\TasksManager.Data\obj\Debug\TasksManager.Data.dll
+D:\Working\TasksManager\TasksManager.Data\obj\Debug\TasksManager.Data.pdb
+D:\Working\Telerik Academy Projects\TasksManager\TasksManager.Data\bin\Debug\TasksManager.Data.dll.config
+D:\Working\Telerik Academy Projects\TasksManager\TasksManager.Data\bin\Debug\TasksManager.Data.dll
+D:\Working\Telerik Academy Projects\TasksManager\TasksManager.Data\bin\Debug\TasksManager.Data.pdb
+D:\Working\Telerik Academy Projects\TasksManager\TasksManager.Data\bin\Debug\EntityFramework.dll
+D:\Working\Telerik Academy Projects\TasksManager\TasksManager.Data\bin\Debug\TasksManager.Models.dll
+D:\Working\Telerik Academy Projects\TasksManager\TasksManager.Data\bin\Debug\TasksManager.Models.pdb
+D:\Working\Telerik Academy Projects\TasksManager\TasksManager.Data\bin\Debug\EntityFramework.xml
+D:\Working\Telerik Academy Projects\TasksManager\TasksManager.Data\obj\Debug\TasksManager.Data.csprojResolveAssemblyReference.cache
+D:\Working\Telerik Academy Projects\TasksManager\TasksManager.Data\obj\Debug\TasksManager.Data.dll
+D:\Working\Telerik Academy Projects\TasksManager\TasksManager.Data\obj\Debug\TasksManager.Data.pdb
+D:\Working\Telerik Academy Projects\TasksManager\TasksManager.Data\bin\Debug\EntityFramework.SqlServer.dll
+D:\Working\Telerik Academy Projects\TasksManager\TasksManager.Data\bin\Debug\EntityFramework.SqlServer.xml

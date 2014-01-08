@@ -1,0 +1,48 @@
+﻿
+<div class="row">
+    <div class="col-lg-4 col-lg-offset-1">
+        <div class="panel panel-primary">
+            <div class="panel-heading">Register Form</div>
+            <div class="panel-body">
+                <form role="form">
+                    <div class="form-group">
+                        <label for="register-username-input">Username</label>
+                        <input data-bind="value: registerUsername" type="text" class="form-control input-lg"
+                               id="register-username-input" placeholder="Enter username">
+                    </div>
+                    <div class="form-group">
+                        <label for="register-password-input">Password</label>
+                        <input data-bind="value: registerPassword" type="password" class="form-control input-lg"
+                               id="register-password-input" placeholder="Enter password">
+                    </div>
+                    <div class="form-group">
+                        <label for="regiter-email-input">Email address</label>
+                        <input data-bind="value: registerEmail" type="email" class="form-control input-lg"
+                               id="regiter-email-input" placeholder="Enter email">
+                    </div>
+                    <button data-bind="click: register" class="btn btn-primary btn-lg btn-block">Register</button>
+                </form>
+            </div>
+        </div>
+    </div>
+    <div class="col-lg-4 col-lg-offset-2">
+        <div class="panel panel-danger">
+            <div class="panel-heading">Login Form</div>
+            <div class="panel-body">
+                <form role="form">
+                    <div class="form-group">
+                        <label for="login-username-input">Username or email</label>
+                        <input data-bind="value: loginUsername" type="text" class="form-control input-lg"
+                               id="login-username-input" placeholder="Enter username or email">
+                    </div>
+                    <div class="form-group">
+                        <label for="login-password-input">Password</label>
+                        <input data-bind="value: loginPassword" type="password" class="form-control input-lg"
+                               id="login-password-input" placeholder="Enter password">
+                    </div>
+                    <button data-bind="click: login" class="btn btn-danger btn-lg btn-block">Login</button>
+                </form>
+            </div>
+        </div>
+    </div>
+</div>

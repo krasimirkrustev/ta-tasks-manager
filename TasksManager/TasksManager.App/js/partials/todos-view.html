@@ -1,0 +1,56 @@
+﻿<!-- TODO: Refactoring -->
+
+<div class="row">
+    <div class="col-lg-12">
+        <ul data-role="menu">
+            <li><a href="#/todo-lists">ToDo Lists</a></li>
+            <li><a href="#/appointments">Appointments</a></li>
+        </ul>
+    </div>
+</div>
+<div class="row">
+    <div class="col-lg-4">
+        <div class="panel panel-primary">
+            <div class="panel-heading">Add Todo</div>
+            <div class="panel-body">
+                <form role="form">
+                    <div class="form-group">
+                        <label for="title-input">Text</label>
+                        <input data-bind="value: text" type="text" class="form-control input-lg"
+                               id="text-input" placeholder="Enter todo text">
+                    </div>
+                    <button data-bind="click: create, value: listId" class="btn btn-primary btn-lg btn-block">Create</button>
+                </form>
+            </div>
+        </div>
+    </div>
+    <div class="col-lg-8">
+        <div class="panel panel-primary table-responsive">
+            <div class="panel-heading"><span data-bind="source: title"></span></div>
+            <div class="panel-body">
+                <table class="table table-hover">
+                    <thead>
+                        <tr>
+                            <th>Text</th>
+                            <th>Status</th>
+                        </tr>
+                    </thead>
+                    <tbody data-template="todo-template" data-bind="source: todos"></tbody>
+                </table>
+            </div>
+        </div>
+    </div>
+</div>
+
+<script type="text/x-kendo-template" id="todo-template">
+    <tr>
+        <td>#: text #</td>
+        <td>
+            # if (isDone) { #
+            <button class="todo-status btn btn-success" data-bind="click: changeStatus, value: todoId">DONE</button>
+            # } else { #
+            <button class="todo-status btn btn-danger" data-bind="click: changeStatus, value: todoId">NOT DONE</button>
+            # } #
+        </td>
+    </tr>
+</script>

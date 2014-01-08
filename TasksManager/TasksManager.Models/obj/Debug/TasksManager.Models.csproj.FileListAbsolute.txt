@@ -1,0 +1,10 @@
+D:\Working\TasksManager\TasksManager.Models\bin\Debug\TasksManager.Models.dll
+D:\Working\TasksManager\TasksManager.Models\bin\Debug\TasksManager.Models.pdb
+D:\Working\TasksManager\TasksManager.Models\obj\Debug\TasksManager.Models.csprojResolveAssemblyReference.cache
+D:\Working\TasksManager\TasksManager.Models\obj\Debug\TasksManager.Models.dll
+D:\Working\TasksManager\TasksManager.Models\obj\Debug\TasksManager.Models.pdb
+D:\Working\Telerik Academy Projects\TasksManager\TasksManager.Models\bin\Debug\TasksManager.Models.dll
+D:\Working\Telerik Academy Projects\TasksManager\TasksManager.Models\bin\Debug\TasksManager.Models.pdb
+D:\Working\Telerik Academy Projects\TasksManager\TasksManager.Models\obj\Debug\TasksManager.Models.dll
+D:\Working\Telerik Academy Projects\TasksManager\TasksManager.Models\obj\Debug\TasksManager.Models.pdb
+D:\Working\Telerik Academy Projects\TasksManager\TasksManager.Models\obj\Debug\TasksManager.Models.csprojResolveAssemblyReference.cache

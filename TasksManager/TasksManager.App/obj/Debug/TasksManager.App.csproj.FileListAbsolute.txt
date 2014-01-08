@@ -1,0 +1,44 @@
+D:\Working\TasksManager\TasksManager.App\obj\Debug\TasksManager.App.csprojResolveAssemblyReference.cache
+D:\Working\TasksManager\TasksManager.App\bin\TasksManager.App.dll.config
+D:\Working\TasksManager\TasksManager.App\bin\TasksManager.App.dll
+D:\Working\TasksManager\TasksManager.App\bin\TasksManager.App.pdb
+D:\Working\TasksManager\TasksManager.App\bin\EntityFramework.dll
+D:\Working\TasksManager\TasksManager.App\bin\Microsoft.Web.Infrastructure.dll
+D:\Working\TasksManager\TasksManager.App\bin\Newtonsoft.Json.dll
+D:\Working\TasksManager\TasksManager.App\bin\System.Net.Http.Formatting.dll
+D:\Working\TasksManager\TasksManager.App\bin\System.Web.Http.dll
+D:\Working\TasksManager\TasksManager.App\bin\System.Web.Http.WebHost.dll
+D:\Working\TasksManager\TasksManager.App\bin\TasksManager.Data.dll
+D:\Working\TasksManager\TasksManager.App\bin\TasksManager.Models.dll
+D:\Working\TasksManager\TasksManager.App\bin\TasksManager.Data.pdb
+D:\Working\TasksManager\TasksManager.App\bin\TasksManager.Models.pdb
+D:\Working\TasksManager\TasksManager.App\bin\EntityFramework.xml
+D:\Working\TasksManager\TasksManager.App\bin\Newtonsoft.Json.xml
+D:\Working\TasksManager\TasksManager.App\bin\System.Net.Http.Formatting.xml
+D:\Working\TasksManager\TasksManager.App\bin\System.Web.Http.xml
+D:\Working\TasksManager\TasksManager.App\bin\System.Web.Http.WebHost.xml
+D:\Working\TasksManager\TasksManager.App\obj\Debug\TasksManager.App.dll
+D:\Working\TasksManager\TasksManager.App\obj\Debug\TasksManager.App.pdb
+D:\Working\Telerik Academy Projects\TasksManager\TasksManager.App\bin\TasksManager.App.dll.config
+D:\Working\Telerik Academy Projects\TasksManager\TasksManager.App\bin\TasksManager.App.dll
+D:\Working\Telerik Academy Projects\TasksManager\TasksManager.App\bin\TasksManager.App.pdb
+D:\Working\Telerik Academy Projects\TasksManager\TasksManager.App\bin\EntityFramework.dll
+D:\Working\Telerik Academy Projects\TasksManager\TasksManager.App\bin\Microsoft.Web.Infrastructure.dll
+D:\Working\Telerik Academy Projects\TasksManager\TasksManager.App\bin\Newtonsoft.Json.dll
+D:\Working\Telerik Academy Projects\TasksManager\TasksManager.App\bin\System.Net.Http.Formatting.dll
+D:\Working\Telerik Academy Projects\TasksManager\TasksManager.App\bin\System.Web.Http.dll
+D:\Working\Telerik Academy Projects\TasksManager\TasksManager.App\bin\System.Web.Http.WebHost.dll
+D:\Working\Telerik Academy Projects\TasksManager\TasksManager.App\bin\TasksManager.Data.dll
+D:\Working\Telerik Academy Projects\TasksManager\TasksManager.App\bin\TasksManager.Models.dll
+D:\Working\Telerik Academy Projects\TasksManager\TasksManager.App\bin\TasksManager.Data.pdb
+D:\Working\Telerik Academy Projects\TasksManager\TasksManager.App\bin\TasksManager.Models.pdb
+D:\Working\Telerik Academy Projects\TasksManager\TasksManager.App\bin\EntityFramework.xml
+D:\Working\Telerik Academy Projects\TasksManager\TasksManager.App\bin\Newtonsoft.Json.xml
+D:\Working\Telerik Academy Projects\TasksManager\TasksManager.App\bin\System.Net.Http.Formatting.xml
+D:\Working\Telerik Academy Projects\TasksManager\TasksManager.App\bin\System.Web.Http.xml
+D:\Working\Telerik Academy Projects\TasksManager\TasksManager.App\bin\System.Web.Http.WebHost.xml
+D:\Working\Telerik Academy Projects\TasksManager\TasksManager.App\obj\Debug\TasksManager.App.csprojResolveAssemblyReference.cache
+D:\Working\Telerik Academy Projects\TasksManager\TasksManager.App\obj\Debug\TasksManager.App.dll
+D:\Working\Telerik Academy Projects\TasksManager\TasksManager.App\obj\Debug\TasksManager.App.pdb
+D:\Working\Telerik Academy Projects\TasksManager\TasksManager.App\bin\EntityFramework.SqlServer.dll
+D:\Working\Telerik Academy Projects\TasksManager\TasksManager.App\bin\EntityFramework.SqlServer.xml
